@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Maven
 target/
 pom.xml.tag
@@ -43,3 +44,10 @@ nb-configuration.xml
 /.quarkus/cli/plugins/
 # TLS Certificates
 .certs/
+=======
+*.class
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> cc032899bc53747db8c5acbaf15850a55b7d37bd

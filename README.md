@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ecommerce-api
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -60,3 +61,6 @@ If you want to learn more about building native executables, please consult <htt
 Easily start your REST Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+=======
+# E-commerce-RESTful-API
+>>>>>>> cc032899bc53747db8c5acbaf15850a55b7d37bd
